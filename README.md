@@ -1,4 +1,4 @@
-de.kappich.sys.funclib.profile v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.kappich.sys.funclib.profile.svg?branch=master)](https://travis-ci.org/datenverteiler/de.kappich.sys.funclib.profile)
+de.kappich.sys.funclib.profile v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.kappich.sys.funclib.profile.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.kappich.sys.funclib.profile)
 =====================================
 
 
