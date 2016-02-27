@@ -1,0 +1,4 @@
+-exportcontents: de.kappich.sys.funclib.profile.*
+-sources: true
+
+Bundle-Name: de.kappich.sys.funclib.profile
