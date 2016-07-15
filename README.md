@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/datenverteiler/de.kappich.sys.funclib.profile.svg?branch=master)](https://travis-ci.org/datenverteiler/de.kappich.sys.funclib.profile)
-[![Build Status](https://api.bintray.com/packages/datenverteiler/maven/de.kappich.sys.funclib.profile/images/download.svg)](https://bintray.com/datenverteiler/maven/de.kappich.sys.funclib.profile)
+[![Build Status](https://travis-ci.org/bitctrl/de.kappich.sys.funclib.profile.svg?branch=master)](https://travis-ci.org/bitctrl/de.kappich.sys.funclib.profile)
+[![Build Status](https://api.bintray.com/packages/bitctrl/maven/de.kappich.sys.funclib.profile/images/download.svg)](https://bintray.com/bitctrl/maven/de.kappich.sys.funclib.profile)
 
 de.kappich.sys.funclib.profile v${project.version}
 =====================================
